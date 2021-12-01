@@ -8,9 +8,10 @@ DOMAIN-SUFFIX,himalaya.com
 USER-AGENT,Deezer*
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
-#DUOLINGO
-DOMAIN-SUFFIX, excess.duolingo.com
-
+# > Duolingo
+USER-AGENT,Duolingo*
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,excess.duolingo.com
 # > JOOX
 USER-AGENT,JOOX*
 USER-AGENT,WeMusic*
