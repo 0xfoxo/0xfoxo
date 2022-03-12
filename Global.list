@@ -56,6 +56,11 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
+# > Signal
+DOMAIN-SUFFIX,Signal
+DOMAIN-SUFFIX,Signal.org
+DOMAIN-SUFFIX,Chat.singnal.org
+DOMAIN-SUFFIX,storage.signal.org
 # > Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
