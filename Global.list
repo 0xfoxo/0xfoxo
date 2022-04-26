@@ -81,6 +81,7 @@ USER-AGENT,walmart*
 DOMAIN-SUFFIX,walmart.com
 DOMAIN,drfdisvc.walmart.com
 DOMAIN,analytics.mobile.walmart.com
+DOMAIN,i5.walmartimages.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
