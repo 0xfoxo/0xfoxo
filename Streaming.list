@@ -18,7 +18,7 @@ USER-AGENT,WeMusic*
 DOMAIN-SUFFIX,joox.com
 DOMAIN-KEYWORD,jooxweb-api
 # > KKBOX
-DOMAIN-SUFFIX,kkbox.com
+DOMAINq-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,kfs.io
 # > Pandora
@@ -76,16 +76,6 @@ DOMAIN-KEYWORD,avoddashs
 # > Apple TV
 DOMAIN,linear.tv.apple.com
 DOMAIN,play-edge.itunes.apple.com
-# Apple News
-DOMAIN,gateway.icloud.com,PROXY
-DOMAIN,ls.apple.com,PROXY
-DOMAIN,gspe1-ssl.ls.apple.com,PROXY
-DOMAIN,gsp64-ssl.ls.apple.com,PROXY
-DOMAIN-SUFFIX,apple.news,PROXY
-DOMAIN,apple.comscoreresearch.com,PROXY
-DOMAIN,news-client.apple.com,PROXY
-DOMAIN,news-events.apple.com,PROXY
-DOMAIN,news-edge.apple.com,PROXY
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
