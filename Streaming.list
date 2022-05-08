@@ -79,6 +79,7 @@ DOMAIN,play-edge.itunes.apple.com
 # Apple News
 DOMAIN,gateway.icloud.com,PROXY
 DOMAIN,gspe1-ssl.ls.apple.com,PROXY
+DOMAIN,gsp64-ssl.ls.apple.com,PROXY
 DOMAIN-SUFFIX,apple.news,PROXY
 DOMAIN,apple.comscoreresearch.com,PROXY
 DOMAIN,news-client.apple.com,PROXY
