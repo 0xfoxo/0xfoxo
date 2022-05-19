@@ -1,6 +1,9 @@
 # (DNS Cache Pollution)
 # > Apple
 DOMAIN,testflight.apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+
 # > Google
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
