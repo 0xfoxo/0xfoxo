@@ -103,6 +103,8 @@ DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
 # > Others
+DOMAIN-SUFFIX,clashofclans.com
+DOMAIN-SUFFIX,inbox.clashofclans.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
